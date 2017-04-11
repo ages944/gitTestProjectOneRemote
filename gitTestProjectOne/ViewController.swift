@@ -10,14 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    let sampleConstant = 21;
+    
     override func viewDidLoad() {
-        super.viewDidLoad()
+        super.viewDidLoad();
         // Do any additional setup after loading the view, typically from a nib.
         // this is a ridiculously simple change
     }
 
     override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
+        super.didReceiveMemoryWarning();
         // Dispose of any resources that can be recreated.
     }
 
