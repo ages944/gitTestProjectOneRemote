@@ -28,6 +28,9 @@ class ViewController: UIViewController {
         // and yet more really simple changes, just to get a better feel of things.
     }
 
+    func sampleFunctionOne () {
+        // I dont actually do anything of value.
+    }
 
 }
 
